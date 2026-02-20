@@ -34,5 +34,3 @@ El sistema:
 - Bronce (< $100.000)  
 - Plata (< $500.000)  
 - Oro (> $500.000)  
----
-## 🧠 Estructura del Proyecto
