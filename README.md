@@ -1,5 +1,5 @@
 # 🚀 SmartFlow Solutions S.A.S.
-### Proyecto Corte 1 - Grupo #
+### Proyecto Corte 1 - Grupo #6
 ---
 ## 🏢 Descripción de la Startup
 **SmartFlow Solutions S.A.S.** es una startup enfocada en el desarrollo de soluciones digitales para optimizar procesos empresariales en áreas de logística y mercadeo.
